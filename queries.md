@@ -565,7 +565,3 @@ WHERE name IS NULL;
 | Create table | `CREATE TABLE table_name (...);` |
 | Add column | `ALTER TABLE table_name ADD column TYPE;` |
 | Create view | `CREATE VIEW view_name AS SELECT ...;` |
-
----
-
-> 🚀 **Remember:** Practice is the fastest way to learn SQL. Start with simple `SELECT` queries, then move to filtering, grouping, joins, and subqueries.
